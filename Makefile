@@ -1,5 +1,6 @@
 LUA=th
 
-all: #src/main.lua
+
+all:
 	#th src/main.lua
 	python src/main.py
